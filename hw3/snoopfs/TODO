@@ -1,0 +1,9 @@
+# -*- text -*-
+
+check ioctl codes get generated correctly
+
+#vnode_t and vfs_t
+
+#fix names 'fist_snoopfs_decodefilename'
+
+

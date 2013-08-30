@@ -1,0 +1,6 @@
+SRCS = getProcessTickets.c
+KMOD = getProcessTickets
+KO = ${KMOD}.ko
+KLDMOD = t
+
+.include <bsd.kmod.mk> 
